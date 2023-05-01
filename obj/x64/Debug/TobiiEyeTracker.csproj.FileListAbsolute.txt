@@ -1,0 +1,13 @@
+C:\Users\alozi\source\repos\TobiiEyeTracker\bin\x64\Debug\TobiiEyeTracker.exe.config
+C:\Users\alozi\source\repos\TobiiEyeTracker\bin\x64\Debug\TobiiEyeTracker.exe
+C:\Users\alozi\source\repos\TobiiEyeTracker\bin\x64\Debug\TobiiEyeTracker.pdb
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\x64\Debug\TobiiEyeTracker.DownloadForm.resources
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\x64\Debug\TobiiEyeTracker.Form1.resources
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\x64\Debug\TobiiEyeTracker.Properties.Resources.resources
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\x64\Debug\TobiiEyeTracker.TrialForm.resources
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\x64\Debug\TobiiEyeTracker.csproj.GenerateResource.cache
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\x64\Debug\TobiiEyeTracker.csproj.CoreCompileInputs.cache
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\x64\Debug\TobiiEyeTracker.exe
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\x64\Debug\TobiiEyeTracker.pdb
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\x64\Debug\TobiiEyeTracker.csprojAssemblyReference.cache
+C:\Users\alozi\source\repos\TobiiEyeTracker\bin\x64\Debug\tobii\stream_engine_windows_x86_4.1.0.3\lib\tobii\tobii_stream_engine.dll

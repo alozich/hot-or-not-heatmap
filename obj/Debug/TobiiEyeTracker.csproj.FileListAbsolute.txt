@@ -1,0 +1,12 @@
+C:\Users\alozi\source\repos\TobiiEyeTracker\bin\Debug\TobiiEyeTracker.exe.config
+C:\Users\alozi\source\repos\TobiiEyeTracker\bin\Debug\TobiiEyeTracker.exe
+C:\Users\alozi\source\repos\TobiiEyeTracker\bin\Debug\TobiiEyeTracker.pdb
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\Debug\TobiiEyeTracker.csprojAssemblyReference.cache
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\Debug\TobiiEyeTracker.Form1.resources
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\Debug\TobiiEyeTracker.Properties.Resources.resources
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\Debug\TobiiEyeTracker.csproj.GenerateResource.cache
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\Debug\TobiiEyeTracker.csproj.CoreCompileInputs.cache
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\Debug\TobiiEyeTracker.exe
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\Debug\TobiiEyeTracker.pdb
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\Debug\TobiiEyeTracker.TrialForm.resources
+C:\Users\alozi\source\repos\TobiiEyeTracker\obj\Debug\TobiiEyeTracker.DownloadForm.resources
